@@ -1,5 +1,5 @@
 import Head from "next/head";
-// import Bird from "./birds";
+import Bird from "./birds";
 import Boxes from "./boxes";
 import {
   ChakraProvider,
@@ -67,7 +67,8 @@ function Home() {
             height="100%"
             p={{ sm: "0 0 60px", md: "0 0 0 0px" }}
           >
-            <Text
+            <Bird position="absolute" with="100%" />
+            {/* <Text
               fontSize="5.5em"
               lineHeight="96px"
               fontWeight="700"
@@ -82,12 +83,12 @@ function Home() {
               maxW="12xl"
             >
               Eğriboz
-            </Text>
+            </Text> */}
             
           </Flex>
         </GridItem>
         <GridItem
-          p="20px 20px 20px 20px"
+          p="60px 20px"
           rowSpan={{ sm: "1", md: "1" }}
           borderTop="1px"
           className="border-color-mode-home-top"
