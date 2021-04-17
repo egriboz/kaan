@@ -12,7 +12,11 @@ const theme = extendTheme({
     global: (props) => ({
       body: {
         color: mode("#111111", "#ffffff")(props),
-        bg: mode("#ffffff", "#111111")(props),
+        // bg: mode("#ffffff", "#111111")(props),
+        background: mode(
+          "linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)",
+          "#111111"
+        )(props),
       },
       "div.border-color-mode-home-right": {
         borderRightColor: mode("#dadce0", "#222222")(props),

@@ -24,6 +24,23 @@ const AvatarImage =
 function Home() {
   return (
     <>
+      <style jsx global>{`
+        body {
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+        }
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+      `}</style>
       <Head>
         <title>Home | {SiteConfig.author.name}</title>
       </Head>
@@ -38,7 +55,13 @@ function Home() {
         <ColorModeSwitcher />
       </Box>
       <Box pos="absolute" zIndex="dropdown">
-        <Heading p="15px 0 0 15px" fontSize="1.1em" fontWeight="800" letterSpacing="2px" as="h1">
+        <Heading
+          p="15px 0 0 15px"
+          fontSize="1.1em"
+          fontWeight="800"
+          letterSpacing="2px"
+          as="h1"
+        >
           {SiteConfig.author.shortName}
         </Heading>
       </Box>
@@ -56,7 +79,7 @@ function Home() {
           pos="relative"
         >
           <Flex align="center" height="100vh" justify="center">
-          <Boxes />
+            <Boxes />
           </Flex>
         </GridItem>
         <GridItem p="20px" rowSpan={{ sm: "1", md: "3" }}>
@@ -84,7 +107,6 @@ function Home() {
             >
               Eğriboz
             </Text> */}
-            
           </Flex>
         </GridItem>
         <GridItem
@@ -105,7 +127,6 @@ function Home() {
               </Text>
             </Box>
           </Flex>
-          
         </GridItem>
       </Grid>
     </>
