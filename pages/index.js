@@ -19,7 +19,7 @@ import Raven from "../components/Raven";
 import Socials from "../components/Socials";
 import SiteConfig from "../site.config";
 const AvatarImage =
-  "https://yt3.ggpht.com/ytc/AAUvwniHG8FrJVx39jV1rmLW_HmDxgE3WRj__BV9fkGX=s176-c-k-c0x00ffffff-no-rj-mo";
+  "https://yt3.googleusercontent.com/hUgxPsu8coYGBzfesIezITW_uhvZbRfCLEd_OBmJEcIZ3nZdOgbkUUB4Jjbtfc9oaJB43leGzA0=s160-c-k-c0x00ffffff-no-rj";
 
 function Home() {
   return (
