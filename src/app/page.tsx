@@ -325,7 +325,7 @@ const HomePage: React.FC = () => {
           <div className="label top font-mono">
             <Avatar hue={lastY} className="avatarBtn" />
 
-            <div className="text-[#39ff14] font-light opacity-50 mt-4 text-center sm:invisible">
+            <div className="text-[#fef406] font-light opacity-50 mt-4 text-center sm:invisible">
               <span>
                 ALPHA:{" "}
                 {orientation.alpha !== null
