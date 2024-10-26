@@ -4,19 +4,20 @@ interface AvatarProps {
   className?: string;
 }
 export default function Avatar({ hue, className }: AvatarProps) {
-  const hueRounded = Math.max(0, Math.min(360, Math.round(hue)));
-  const newHue = hueRounded > 94 ? hueRounded + 94 : hueRounded;
+  // const hueRounded = Math.max(0, Math.min(360, Math.round(hue)));
+  // const newHue = hueRounded > 94 ? hueRounded + 94 : hueRounded;
+  console.log(hue);
   return (
     <>
       <div className="flex items-center justify-center">
         <div
           className={`relative flex flex-col items-center justify-center ${className}`}
         >
-          <picture className="rounded-full bg-[#39ff14]">
+          <picture className="rounded-full bg-[#fef406]">
             <img
-              className="rounded-full object-cover opacity-90"
+              className="rounded-full object-cover opacity-90 border-1 border-[#fef406]"
               // style={{ filter: "hue-rotate(113deg);" }}
-              style={{ filter: `hue-rotate(${newHue}deg)` }}
+              // style={{ filter: `hue-rotate(${newHue}deg)` }}
               width={48}
               height={48}
               src="/kaanegriboz.jpg"
@@ -28,7 +29,7 @@ export default function Avatar({ hue, className }: AvatarProps) {
               href="https://www.youtube.com/@kaanegriboz"
               target="_blank"
               rel="noopener noreferrer"
-              className="group relative font-bold text-[0.70rem] h-12 rounded-full bg-transparent px-4 text-[#39ff14]"
+              className="group relative font-bold text-[0.70rem] h-12 rounded-full bg-transparent px-4 text-[#fef406]"
             >
               <span className="relative inline-flex overflow-hidden">
                 <div className="translate-y-0 skew-y-0 transition duration-500 group-hover:-translate-y-[140%] group-hover:skew-y-12">

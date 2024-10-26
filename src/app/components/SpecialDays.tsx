@@ -42,10 +42,7 @@ const SpecialDays: React.FC = () => {
 
   return (
     <>
-      <div
-        style={{ width: "200px" }}
-        className="invisible sm:visible opacity-50 pb-2"
-      >
+      <div style={{ width: "200px" }} className="invisible sm:visible pb-2">
         <Marquee speed={30}>
           {holidayLink && (
             <div className="pl-1">
@@ -58,7 +55,7 @@ const SpecialDays: React.FC = () => {
             </div>
           )}
           {holidayLink && (
-            <div className="text-[#39ff14] pl-1">
+            <div className="text-[#fef406] pl-1">
               <span className="pr-1">
                 <em>TODAY is</em>
               </span>

@@ -94,7 +94,7 @@ body {
   --bg-color: #042828;
   /*--text-color: #13d2cf;*/
   /*--text-color: #daf6ff;*/
-  --text-color: #39ff14;
+  --text-color: #fef406;
   --grey-color: #fff;
   --cursor-color: #ffd700;
 }
@@ -136,7 +136,8 @@ main {
   background-color: var(--bg-color);
   */
   background: #002d1a;
-  background: radial-gradient(ellipse at center, #114707 0%, #002d1a 90%);
+  /* background: radial-gradient(ellipse at center, #114707 0%, #002d1a 90%);*/
+  background: radial-gradient(ellipse at center, #092a8f 0%, #030338 90%);
   background-size: 100%;
 }
 
