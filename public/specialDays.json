@@ -1,0 +1,2200 @@
+{
+  "specialDays": [
+    {
+      "date": "2024-01-01",
+      "holiday": [
+        "New Year's Day"
+      ]
+    },
+    {
+      "date": "2024-01-02",
+      "holiday": [
+        "National Science Fiction Day"
+      ]
+    },
+    {
+      "date": "2024-01-03",
+      "holiday": [
+        "Festival of Sleep Day"
+      ]
+    },
+    {
+      "date": "2024-01-04",
+      "holiday": [
+        "National Trivia Day"
+      ]
+    },
+    {
+      "date": "2024-01-05",
+      "holiday": [
+        "National Bird Day"
+      ]
+    },
+    {
+      "date": "2024-01-06",
+      "holiday": [
+        "Epiphany"
+      ]
+    },
+    {
+      "date": "2024-01-07",
+      "holiday": [
+        "Old Rock Day"
+      ]
+    },
+    {
+      "date": "2024-01-08",
+      "holiday": [
+        "Bubble Bath Day"
+      ]
+    },
+    {
+      "date": "2024-01-09",
+      "holiday": [
+        "National Law Enforcement Appreciation Day"
+      ]
+    },
+    {
+      "date": "2024-01-10",
+      "holiday": [
+        "Houseplant Appreciation Day"
+      ]
+    },
+    {
+      "date": "2024-01-11",
+      "holiday": [
+        "National Milk Day"
+      ]
+    },
+    {
+      "date": "2024-01-12",
+      "holiday": [
+        "Kiss a Ginger Day"
+      ]
+    },
+    {
+      "date": "2024-01-13",
+      "holiday": [
+        "Make Your Dreams Come True Day"
+      ]
+    },
+    {
+      "date": "2024-01-14",
+      "holiday": [
+        "National Dress Up Your Pet Day"
+      ]
+    },
+    {
+      "date": "2024-01-15",
+      "holiday": [
+        "Martin Luther King Jr. Day"
+      ]
+    },
+    {
+      "date": "2024-01-16",
+      "holiday": [
+        "National Nothing Day"
+      ]
+    },
+    {
+      "date": "2024-01-17",
+      "holiday": [
+        "Ditch New Year's Resolutions Day"
+      ]
+    },
+    {
+      "date": "2024-01-18",
+      "holiday": [
+        "Winnie the Pooh Day"
+      ]
+    },
+    {
+      "date": "2024-01-19",
+      "holiday": [
+        "National Popcorn Day"
+      ]
+    },
+    {
+      "date": "2024-01-20",
+      "holiday": [
+        "Inauguration Day"
+      ]
+    },
+    {
+      "date": "2024-01-21",
+      "holiday": [
+        "National Hugging Day"
+      ]
+    },
+    {
+      "date": "2024-01-22",
+      "holiday": [
+        "National Hot Sauce Day"
+      ]
+    },
+    {
+      "date": "2024-01-23",
+      "holiday": [
+        "National Pie Day"
+      ]
+    },
+    {
+      "date": "2024-01-24",
+      "holiday": [
+        "National Compliment Day"
+      ]
+    },
+    {
+      "date": "2024-01-25",
+      "holiday": [
+        "Opposite Day"
+      ]
+    },
+    {
+      "date": "2024-01-26",
+      "holiday": [
+        "Australia Day"
+      ]
+    },
+    {
+      "date": "2024-01-27",
+      "holiday": [
+        "International Holocaust Remembrance Day"
+      ]
+    },
+    {
+      "date": "2024-01-28",
+      "holiday": [
+        "National Blueberry Pancake Day"
+      ]
+    },
+    {
+      "date": "2024-01-29",
+      "holiday": [
+        "National Puzzle Day"
+      ]
+    },
+    {
+      "date": "2024-01-30",
+      "holiday": [
+        "National Croissant Day"
+      ]
+    },
+    {
+      "date": "2024-01-31",
+      "holiday": [
+        "Inspire Your Heart with Art Day"
+      ]
+    },
+    {
+      "date": "2024-02-01",
+      "holiday": [
+        "National Freedom Day"
+      ]
+    },
+    {
+      "date": "2024-02-02",
+      "holiday": [
+        "Groundhog Day"
+      ]
+    },
+    {
+      "date": "2024-02-03",
+      "holiday": [
+        "National Carrot Cake Day"
+      ]
+    },
+    {
+      "date": "2024-02-04",
+      "holiday": [
+        "World Cancer Day"
+      ]
+    },
+    {
+      "date": "2024-02-05",
+      "holiday": [
+        "National Weatherperson's Day"
+      ]
+    },
+    {
+      "date": "2024-02-06",
+      "holiday": [
+        "National Frozen Yogurt Day"
+      ]
+    },
+    {
+      "date": "2024-02-07",
+      "holiday": [
+        "National Send a Card to a Friend Day"
+      ]
+    },
+    {
+      "date": "2024-02-08",
+      "holiday": [
+        "National Boy Scouts Day"
+      ]
+    },
+    {
+      "date": "2024-02-09",
+      "holiday": [
+        "National Pizza Day"
+      ]
+    },
+    {
+      "date": "2024-02-10",
+      "holiday": [
+        "National Umbrella Day"
+      ]
+    },
+    {
+      "date": "2024-02-11",
+      "holiday": [
+        "National Make a Friend Day"
+      ]
+    },
+    {
+      "date": "2024-02-12",
+      "holiday": [
+        "Lincoln's Birthday"
+      ]
+    },
+    {
+      "date": "2024-02-13",
+      "holiday": [
+        "National Tortilla Chip Day"
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "holiday": [
+        "Valentine's Day"
+      ]
+    },
+    {
+      "date": "2024-02-15",
+      "holiday": [
+        "National Flag of Canada Day"
+      ]
+    },
+    {
+      "date": "2024-02-16",
+      "holiday": [
+        "National Almond Day"
+      ]
+    },
+    {
+      "date": "2024-02-17",
+      "holiday": [
+        "National Random Acts of Kindness Day"
+      ]
+    },
+    {
+      "date": "2024-02-18",
+      "holiday": [
+        "National Battery Day"
+      ]
+    },
+    {
+      "date": "2024-02-19",
+      "holiday": [
+        "Presidents' Day"
+      ]
+    },
+    {
+      "date": "2024-02-20",
+      "holiday": [
+        "World Day of Social Justice"
+      ]
+    },
+    {
+      "date": "2024-02-21",
+      "holiday": [
+        "National Sticky Bun Day"
+      ]
+    },
+    {
+      "date": "2024-02-22",
+      "holiday": [
+        "National Margarita Day"
+      ]
+    },
+    {
+      "date": "2024-02-23",
+      "holiday": [
+        "National Dog Biscuit Day"
+      ]
+    },
+    {
+      "date": "2024-02-24",
+      "holiday": [
+        "National Tortilla Day"
+      ]
+    },
+    {
+      "date": "2024-02-25",
+      "holiday": [
+        "National Clam Chowder Day"
+      ]
+    },
+    {
+      "date": "2024-02-26",
+      "holiday": [
+        "National Pistachio Day"
+      ]
+    },
+    {
+      "date": "2024-02-27",
+      "holiday": [
+        "No Brainer Day"
+      ]
+    },
+    {
+      "date": "2024-02-28",
+      "holiday": [
+        "National Science Day"
+      ]
+    },
+    {
+      "date": "2024-02-29",
+      "holiday": [
+        "Leap Year Day"
+      ]
+    },
+    {
+      "date": "2024-03-01",
+      "holiday": [
+        "National Peanut Butter Lover's Day"
+      ]
+    },
+    {
+      "date": "2024-03-02",
+      "holiday": [
+        "National Read Across America Day"
+      ]
+    },
+    {
+      "date": "2024-03-03",
+      "holiday": [
+        "World Wildlife Day"
+      ]
+    },
+    {
+      "date": "2024-03-04",
+      "holiday": [
+        "National Grammar Day"
+      ]
+    },
+    {
+      "date": "2024-03-05",
+      "holiday": [
+        "World Pancake Day"
+      ]
+    },
+    {
+      "date": "2024-03-06",
+      "holiday": [
+        "National Frozen Food Day"
+      ]
+    },
+    {
+      "date": "2024-03-07",
+      "holiday": [
+        "National Cereal Day"
+      ]
+    },
+    {
+      "date": "2024-03-08",
+      "holiday": [
+        "International Women's Day"
+      ]
+    },
+    {
+      "date": "2024-03-09",
+      "holiday": [
+        "National Meatball Day"
+      ]
+    },
+    {
+      "date": "2024-03-10",
+      "holiday": [
+        "National Pack Your Lunch Day"
+      ]
+    },
+    {
+      "date": "2024-03-11",
+      "holiday": [
+        "World Plumbing Day"
+      ]
+    },
+    {
+      "date": "2024-03-12",
+      "holiday": [
+        "National Plant a Flower Day"
+      ]
+    },
+    {
+      "date": "2024-03-13",
+      "holiday": [
+        "National Good Samaritan Day"
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "holiday": [
+        "Pi Day"
+      ]
+    },
+    {
+      "date": "2024-03-15",
+      "holiday": [
+        "National Everything You Think Is Wrong Day"
+      ]
+    },
+    {
+      "date": "2024-03-16",
+      "holiday": [
+        "National Artichoke Hearts Day"
+      ]
+    },
+    {
+      "date": "2024-03-17",
+      "holiday": [
+        "St. Patrick's Day"
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "holiday": [
+        "National Sloppy Joe Day"
+      ]
+    },
+    {
+      "date": "2024-03-19",
+      "holiday": [
+        "National Poultry Day"
+      ]
+    },
+    {
+      "date": "2024-03-20",
+      "holiday": [
+        "World Storytelling Day"
+      ]
+    },
+    {
+      "date": "2024-03-21",
+      "holiday": [
+        "World Down Syndrome Day"
+      ]
+    },
+    {
+      "date": "2024-03-22",
+      "holiday": [
+        "National Puppy Day"
+      ]
+    },
+    {
+      "date": "2024-03-23",
+      "holiday": [
+        "National Chip and Dip Day"
+      ]
+    },
+    {
+      "date": "2024-03-24",
+      "holiday": [
+        "National Chocolate Covered Raisins Day"
+      ]
+    },
+    {
+      "date": "2024-03-25",
+      "holiday": [
+        "National Medal of Honor Day"
+      ]
+    },
+    {
+      "date": "2024-03-26",
+      "holiday": [
+        "National Spinach Day"
+      ]
+    },
+    {
+      "date": "2024-03-27",
+      "holiday": [
+        "World Theater Day"
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "holiday": [
+        "National Something on a Stick Day"
+      ]
+    },
+    {
+      "date": "2024-03-29",
+      "holiday": [
+        "National Vietnam War Veterans Day"
+      ]
+    },
+    {
+      "date": "2024-03-30",
+      "holiday": [
+        "National Doctor's Day"
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "holiday": [
+        "International Transgender Day of Visibility"
+      ]
+    },
+    {
+      "date": "2024-04-01",
+      "holiday": [
+        "April Fool's Day"
+      ]
+    },
+    {
+      "date": "2024-04-02",
+      "holiday": [
+        "National Peanut Butter and Jelly Day"
+      ]
+    },
+    {
+      "date": "2024-04-03",
+      "holiday": [
+        "National Chocolate Mousse Day"
+      ]
+    },
+    {
+      "date": "2024-04-04",
+      "holiday": [
+        "National Walk Around Things Day"
+      ]
+    },
+    {
+      "date": "2024-04-05",
+      "holiday": [
+        "National Deep Dish Pizza Day"
+      ]
+    },
+    {
+      "date": "2024-04-06",
+      "holiday": [
+        "National Tartan Day"
+      ]
+    },
+    {
+      "date": "2024-04-07",
+      "holiday": [
+        "World Health Day"
+      ]
+    },
+    {
+      "date": "2024-04-08",
+      "holiday": [
+        "National Zoo Lovers Day"
+      ]
+    },
+    {
+      "date": "2024-04-09",
+      "holiday": [
+        "National Unicorn Day"
+      ]
+    },
+    {
+      "date": "2024-04-10",
+      "holiday": [
+        "National Sibling Day"
+      ]
+    },
+    {
+      "date": "2024-04-11",
+      "holiday": [
+        "National Pet Day"
+      ]
+    },
+    {
+      "date": "2024-04-12",
+      "holiday": [
+        "National Grilled Cheese Sandwich Day"
+      ]
+    },
+    {
+      "date": "2024-04-13",
+      "holiday": [
+        "National Scrabble Day"
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "holiday": [
+        "National Dolphin Day"
+      ]
+    },
+    {
+      "date": "2024-04-15",
+      "holiday": [
+        "Tax Day"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "holiday": [
+        "National Eggs Benedict Day"
+      ]
+    },
+    {
+      "date": "2024-04-17",
+      "holiday": [
+        "National Haiku Poetry Day"
+      ]
+    },
+    {
+      "date": "2024-04-18",
+      "holiday": [
+        "National Animal Crackers Day"
+      ]
+    },
+    {
+      "date": "2024-04-19",
+      "holiday": [
+        "National Garlic Day"
+      ]
+    },
+    {
+      "date": "2024-04-20",
+      "holiday": [
+        "National Pineapple Upside Down Cake Day"
+      ]
+    },
+    {
+      "date": "2024-04-21",
+      "holiday": [
+        "National Tea Day"
+      ]
+    },
+    {
+      "date": "2024-04-22",
+      "holiday": [
+        "Earth Day"
+      ]
+    },
+    {
+      "date": "2024-04-23",
+      "holiday": [
+        "National Cherry Cheesecake Day"
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "holiday": [
+        "National Pigs in a Blanket Day"
+      ]
+    },
+    {
+      "date": "2024-04-25",
+      "holiday": [
+        "National DNA Day"
+      ]
+    },
+    {
+      "date": "2024-04-26",
+      "holiday": [
+        "National Pretzel Day"
+      ]
+    },
+    {
+      "date": "2024-04-27",
+      "holiday": [
+        "National Tell a Story Day"
+      ]
+    },
+    {
+      "date": "2024-04-28",
+      "holiday": [
+        "National Blueberry Pie Day"
+      ]
+    },
+    {
+      "date": "2024-04-29",
+      "holiday": [
+        "National Zipper Day"
+      ]
+    },
+    {
+      "date": "2024-04-30",
+      "holiday": [
+        "National Oatmeal Cookie Day"
+      ]
+    },
+    {
+      "date": "2024-05-01",
+      "holiday": [
+        "May Day"
+      ]
+    },
+    {
+      "date": "2024-05-02",
+      "holiday": [
+        "National Truffle Day"
+      ]
+    },
+    {
+      "date": "2024-05-03",
+      "holiday": [
+        "National Chocolate Custard Day"
+      ]
+    },
+    {
+      "date": "2024-05-04",
+      "holiday": [
+        "Star Wars Day"
+      ]
+    },
+    {
+      "date": "2024-05-05",
+      "holiday": [
+        "Cinco de Mayo"
+      ]
+    },
+    {
+      "date": "2024-05-06",
+      "holiday": [
+        "National Nurses Day"
+      ]
+    },
+    {
+      "date": "2024-05-07",
+      "holiday": [
+        "National Tourism Day"
+      ]
+    },
+    {
+      "date": "2024-05-08",
+      "holiday": [
+        "World Red Cross Day"
+      ]
+    },
+    {
+      "date": "2024-05-09",
+      "holiday": [
+        "National Lost Sock Memorial Day"
+      ]
+    },
+    {
+      "date": "2024-05-10",
+      "holiday": [
+        "National Clean Up Your Room Day"
+      ]
+    },
+    {
+      "date": "2024-05-11",
+      "holiday": [
+        "National Eat What You Want Day"
+      ]
+    },
+    {
+      "date": "2024-05-12",
+      "holiday": [
+        "Mother's Day"
+      ]
+    },
+    {
+      "date": "2024-05-13",
+      "holiday": [
+        "National Apple Pie Day"
+      ]
+    },
+    {
+      "date": "2024-05-14",
+      "holiday": [
+        "National Dance Like a Chicken Day"
+      ]
+    },
+    {
+      "date": "2024-05-15",
+      "holiday": [
+        "National Chocolate Chip Day"
+      ]
+    },
+    {
+      "date": "2024-05-16",
+      "holiday": [
+        "National Coquilles Saint Jacques Day"
+      ]
+    },
+    {
+      "date": "2024-05-17",
+      "holiday": [
+        "National Walnut Day"
+      ]
+    },
+    {
+      "date": "2024-05-18",
+      "holiday": [
+        "National Visit Your Relatives Day"
+      ]
+    },
+    {
+      "date": "2024-05-19",
+      "holiday": [
+        "National Devil's Food Cake Day"
+      ]
+    },
+    {
+      "date": "2024-05-20",
+      "holiday": [
+        "National Be a Millionaire Day"
+      ]
+    },
+    {
+      "date": "2024-05-21",
+      "holiday": [
+        "National Memo Day"
+      ]
+    },
+    {
+      "date": "2024-05-22",
+      "holiday": [
+        "National Maritime Day"
+      ]
+    },
+    {
+      "date": "2024-05-23",
+      "holiday": [
+        "National Lucky Penny Day"
+      ]
+    },
+    {
+      "date": "2024-05-24",
+      "holiday": [
+        "National Escargot Day"
+      ]
+    },
+    {
+      "date": "2024-05-25",
+      "holiday": [
+        "National Wine Day"
+      ]
+    },
+    {
+      "date": "2024-05-26",
+      "holiday": [
+        "National Paper Airplane Day"
+      ]
+    },
+    {
+      "date": "2024-05-27",
+      "holiday": [
+        "Memorial Day"
+      ]
+    },
+    {
+      "date": "2024-05-28",
+      "holiday": [
+        "National Hamburger Day"
+      ]
+    },
+    {
+      "date": "2024-05-29",
+      "holiday": [
+        "National Coq au Vin Day"
+      ]
+    },
+    {
+      "date": "2024-05-30",
+      "holiday": [
+        "National Mint Julep Day"
+      ]
+    },
+    {
+      "date": "2024-05-31",
+      "holiday": [
+        "National Speak in Sentences Day"
+      ]
+    },
+    {
+      "date": "2024-06-01",
+      "holiday": [
+        "National Doughnut Day"
+      ]
+    },
+    {
+      "date": "2024-06-02",
+      "holiday": [
+        "National Rocky Road Day"
+      ]
+    },
+    {
+      "date": "2024-06-03",
+      "holiday": [
+        "National Repeat Day"
+      ]
+    },
+    {
+      "date": "2024-06-04",
+      "holiday": [
+        "National Cheese Day"
+      ]
+    },
+    {
+      "date": "2024-06-05",
+      "holiday": [
+        "World Environment Day"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "holiday": [
+        "National Yo-Yo Day"
+      ]
+    },
+    {
+      "date": "2024-06-07",
+      "holiday": [
+        "National Chocolate Ice Cream Day"
+      ]
+    },
+    {
+      "date": "2024-06-08",
+      "holiday": [
+        "World Oceans Day"
+      ]
+    },
+    {
+      "date": "2024-06-09",
+      "holiday": [
+        "National Strawberry Rhubarb Pie Day"
+      ]
+    },
+    {
+      "date": "2024-06-10",
+      "holiday": [
+        "National Iced Tea Day"
+      ]
+    },
+    {
+      "date": "2024-06-11",
+      "holiday": [
+        "National Making Life Beautiful Day"
+      ]
+    },
+    {
+      "date": "2024-06-12",
+      "holiday": [
+        "National Red Rose Day"
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "holiday": [
+        "National Sewing Machine Day"
+      ]
+    },
+    {
+      "date": "2024-06-14",
+      "holiday": [
+        "Flag Day"
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "holiday": [
+        "National Smile Power Day"
+      ]
+    },
+    {
+      "date": "2024-06-16",
+      "holiday": [
+        "Father's Day"
+      ]
+    },
+    {
+      "date": "2024-06-17",
+      "holiday": [
+        "National Eat Your Vegetables Day"
+      ]
+    },
+    {
+      "date": "2024-06-18",
+      "holiday": [
+        "National Splurge Day"
+      ]
+    },
+    {
+      "date": "2024-06-19",
+      "holiday": [
+        "Juneteenth"
+      ]
+    },
+    {
+      "date": "2024-06-20",
+      "holiday": [
+        "National Vanilla Milkshake Day"
+      ]
+    },
+    {
+      "date": "2024-06-21",
+      "holiday": [
+        "National Selfie Day"
+      ]
+    },
+    {
+      "date": "2024-06-22",
+      "holiday": [
+        "National Chocolate Éclair Day"
+      ]
+    },
+    {
+      "date": "2024-06-23",
+      "holiday": [
+        "National Pink Day"
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "holiday": [
+        "National Pralines Day"
+      ]
+    },
+    {
+      "date": "2024-06-25",
+      "holiday": [
+        "National Catfish Day"
+      ]
+    },
+    {
+      "date": "2024-06-26",
+      "holiday": [
+        "National Coconut Day"
+      ]
+    },
+    {
+      "date": "2024-06-27",
+      "holiday": [
+        "National Industrial Workers of the World Day"
+      ]
+    },
+    {
+      "date": "2024-06-28",
+      "holiday": [
+        "National Insurance Awareness Day"
+      ]
+    },
+    {
+      "date": "2024-06-29",
+      "holiday": [
+        "National Waffle Iron Day"
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "holiday": [
+        "National Ice Cream Month"
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "holiday": [
+        "National Postal Worker Day"
+      ]
+    },
+    {
+      "date": "2024-07-02",
+      "holiday": [
+        "National Anisette Day"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "holiday": [
+        "National Stay Out of the Sun Day"
+      ]
+    },
+    {
+      "date": "2024-07-04",
+      "holiday": [
+        "Independence Day"
+      ]
+    },
+    {
+      "date": "2024-07-05",
+      "holiday": [
+        "National Workaholics Day"
+      ]
+    },
+    {
+      "date": "2024-07-06",
+      "holiday": [
+        "National Fried Chicken Day"
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "holiday": [
+        "National Strawberry Sundae Day"
+      ]
+    },
+    {
+      "date": "2024-07-08",
+      "holiday": [
+        "National Chocolate with Almonds Day"
+      ]
+    },
+    {
+      "date": "2024-07-09",
+      "holiday": [
+        "National Sugar Cookie Day"
+      ]
+    },
+    {
+      "date": "2024-07-10",
+      "holiday": [
+        "National Pina Colada Day"
+      ]
+    },
+    {
+      "date": "2024-07-11",
+      "holiday": [
+        "National Mojito Day"
+      ]
+    },
+    {
+      "date": "2024-07-12",
+      "holiday": [
+        "National Simplicity Day"
+      ]
+    },
+    {
+      "date": "2024-07-13",
+      "holiday": [
+        "National French Fry Day"
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "holiday": [
+        "National Tape Measure Day"
+      ]
+    },
+    {
+      "date": "2024-07-15",
+      "holiday": [
+        "National Give Something Away Day"
+      ]
+    },
+    {
+      "date": "2024-07-16",
+      "holiday": [
+        "National Corn Fritters Day"
+      ]
+    },
+    {
+      "date": "2024-07-17",
+      "holiday": [
+        "National Peach Ice Cream Day"
+      ]
+    },
+    {
+      "date": "2024-07-18",
+      "holiday": [
+        "National Sour Candy Day"
+      ]
+    },
+    {
+      "date": "2024-07-19",
+      "holiday": [
+        "National Daiquiri Day"
+      ]
+    },
+    {
+      "date": "2024-07-20",
+      "holiday": [
+        "National Moon Day"
+      ]
+    },
+    {
+      "date": "2024-07-21",
+      "holiday": [
+        "National Junk Food Day"
+      ]
+    },
+    {
+      "date": "2024-07-22",
+      "holiday": [
+        "National Hammock Day"
+      ]
+    },
+    {
+      "date": "2024-07-23",
+      "holiday": [
+        "National Hot Dog Day"
+      ]
+    },
+    {
+      "date": "2024-07-24",
+      "holiday": [
+        "National Tequila Day"
+      ]
+    },
+    {
+      "date": "2024-07-25",
+      "holiday": [
+        "National Refreshment Day"
+      ]
+    },
+    {
+      "date": "2024-07-26",
+      "holiday": [
+        "National Aunt and Uncle Day"
+      ]
+    },
+    {
+      "date": "2024-07-27",
+      "holiday": [
+        "National Crème Brûlée Day"
+      ]
+    },
+    {
+      "date": "2024-07-28",
+      "holiday": [
+        "National Milk Chocolate Day"
+      ]
+    },
+    {
+      "date": "2024-07-29",
+      "holiday": [
+        "National Lipstick Day"
+      ]
+    },
+    {
+      "date": "2024-07-30",
+      "holiday": [
+        "National Cheesecake Day"
+      ]
+    },
+    {
+      "date": "2024-07-31",
+      "holiday": [
+        "National Avocado Day"
+      ]
+    },
+    {
+      "date": "2024-08-01",
+      "holiday": [
+        "National Raspberry Cream Pie Day"
+      ]
+    },
+    {
+      "date": "2024-08-02",
+      "holiday": [
+        "National Ice Cream Sandwich Day"
+      ]
+    },
+    {
+      "date": "2024-08-03",
+      "holiday": [
+        "National Watermelon Day"
+      ]
+    },
+    {
+      "date": "2024-08-04",
+      "holiday": [
+        "National Chocolate Chip Cookie Day"
+      ]
+    },
+    {
+      "date": "2024-08-05",
+      "holiday": [
+        "National Oyster Day"
+      ]
+    },
+    {
+      "date": "2024-08-06",
+      "holiday": [
+        "National Root Beer Float Day"
+      ]
+    },
+    {
+      "date": "2024-08-07",
+      "holiday": [
+        "National Lighthouse Day"
+      ]
+    },
+    {
+      "date": "2024-08-08",
+      "holiday": [
+        "National Frozen Custard Day"
+      ]
+    },
+    {
+      "date": "2024-08-09",
+      "holiday": [
+        "National Rice Pudding Day"
+      ]
+    },
+    {
+      "date": "2024-08-10",
+      "holiday": [
+        "National S'mores Day"
+      ]
+    },
+    {
+      "date": "2024-08-11",
+      "holiday": [
+        "National Play in the Sand Day"
+      ]
+    },
+    {
+      "date": "2024-08-12",
+      "holiday": [
+        "National Vinyl Record Day"
+      ]
+    },
+    {
+      "date": "2024-08-13",
+      "holiday": [
+        "National Left-Handers Day"
+      ]
+    },
+    {
+      "date": "2024-08-14",
+      "holiday": [
+        "National Creamsicle Day"
+      ]
+    },
+    {
+      "date": "2024-08-15",
+      "holiday": [
+        "National Relaxation Day"
+      ]
+    },
+    {
+      "date": "2024-08-16",
+      "holiday": [
+        "National Tell a Joke Day"
+      ]
+    },
+    {
+      "date": "2024-08-17",
+      "holiday": [
+        "National Thrift Shop Day"
+      ]
+    },
+    {
+      "date": "2024-08-18",
+      "holiday": [
+        "National Ice Cream Pie Day"
+      ]
+    },
+    {
+      "date": "2024-08-19",
+      "holiday": [
+        "National Aviation Day"
+      ]
+    },
+    {
+      "date": "2024-08-20",
+      "holiday": [
+        "National Radio Day"
+      ]
+    },
+    {
+      "date": "2024-08-21",
+      "holiday": [
+        "National Senior Citizens Day"
+      ]
+    },
+    {
+      "date": "2024-08-22",
+      "holiday": [
+        "National Be an Angel Day"
+      ]
+    },
+    {
+      "date": "2024-08-23",
+      "holiday": [
+        "National Ride the Wind Day"
+      ]
+    },
+    {
+      "date": "2024-08-24",
+      "holiday": [
+        "National Waffle Day"
+      ]
+    },
+    {
+      "date": "2024-08-25",
+      "holiday": [
+        "National Banana Split Day"
+      ]
+    },
+    {
+      "date": "2024-08-26",
+      "holiday": [
+        "National Dog Day"
+      ]
+    },
+    {
+      "date": "2024-08-27",
+      "holiday": [
+        "National Just Because Day"
+      ]
+    },
+    {
+      "date": "2024-08-28",
+      "holiday": [
+        "National Bow Tie Day"
+      ]
+    },
+    {
+      "date": "2024-08-29",
+      "holiday": [
+        "National Lemon Juice Day"
+      ]
+    },
+    {
+      "date": "2024-08-30",
+      "holiday": [
+        "National Toasted Marshmallow Day"
+      ]
+    },
+    {
+      "date": "2024-08-31",
+      "holiday": [
+        "National Trail Mix Day"
+      ]
+    },
+    {
+      "date": "2024-09-01",
+      "holiday": [
+        "National Coffee Day"
+      ]
+    },
+    {
+      "date": "2024-09-02",
+      "holiday": [
+        "National Blueberry Popsicle Day"
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "holiday": [
+        "National Skyscraper Day"
+      ]
+    },
+    {
+      "date": "2024-09-04",
+      "holiday": [
+        "National Wildlife Day"
+      ]
+    },
+    {
+      "date": "2024-09-05",
+      "holiday": [
+        "National Cheese Pizza Day"
+      ]
+    },
+    {
+      "date": "2024-09-06",
+      "holiday": [
+        "National Read a Book Day"
+      ]
+    },
+    {
+      "date": "2024-09-07",
+      "holiday": [
+        "National Beer Lover's Day"
+      ]
+    },
+    {
+      "date": "2024-09-08",
+      "holiday": [
+        "International Literacy Day"
+      ]
+    },
+    {
+      "date": "2024-09-09",
+      "holiday": [
+        "National Teddy Bear Day"
+      ]
+    },
+    {
+      "date": "2024-09-10",
+      "holiday": [
+        "National TV Dinner Day"
+      ]
+    },
+    {
+      "date": "2024-09-11",
+      "holiday": [
+        "National Make Your Bed Day"
+      ]
+    },
+    {
+      "date": "2024-09-12",
+      "holiday": [
+        "National Chocolate Milkshake Day"
+      ]
+    },
+    {
+      "date": "2024-09-13",
+      "holiday": [
+        "National Programmer's Day"
+      ]
+    },
+    {
+      "date": "2024-09-14",
+      "holiday": [
+        "National Cream-Filled Doughnut Day"
+      ]
+    },
+    {
+      "date": "2024-09-15",
+      "holiday": [
+        "National Online Learning Day"
+      ]
+    },
+    {
+      "date": "2024-09-16",
+      "holiday": [
+        "National Guacamole Day"
+      ]
+    },
+    {
+      "date": "2024-09-17",
+      "holiday": [
+        "National Monte Cristo Day"
+      ]
+    },
+    {
+      "date": "2024-09-18",
+      "holiday": [
+        "National Cheeseburger Day"
+      ]
+    },
+    {
+      "date": "2024-09-19",
+      "holiday": [
+        "National Butterscotch Pudding Day"
+      ]
+    },
+    {
+      "date": "2024-09-20",
+      "holiday": [
+        "National Pepperoni Pizza Day"
+      ]
+    },
+    {
+      "date": "2024-09-21",
+      "holiday": [
+        "International Day of Peace"
+      ]
+    },
+    {
+      "date": "2024-09-22",
+      "holiday": [
+        "National Ice Cream Cone Day"
+      ]
+    },
+    {
+      "date": "2024-09-23",
+      "holiday": [
+        "National Snack Stick Day"
+      ]
+    },
+    {
+      "date": "2024-09-24",
+      "holiday": [
+        "National Punctuation Day"
+      ]
+    },
+    {
+      "date": "2024-09-25",
+      "holiday": [
+        "National One-Hit Wonder Day"
+      ]
+    },
+    {
+      "date": "2024-09-26",
+      "holiday": [
+        "National Pancake Day"
+      ]
+    },
+    {
+      "date": "2024-09-27",
+      "holiday": [
+        "National Chocolate Day"
+      ]
+    },
+    {
+      "date": "2024-09-28",
+      "holiday": [
+        "National Good Neighbor Day"
+      ]
+    },
+    {
+      "date": "2024-09-29",
+      "holiday": [
+        "National Coffee Day"
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "holiday": [
+        "National Love People Day"
+      ]
+    },
+    {
+      "date": "2024-10-01",
+      "holiday": [
+        "National Homemade Cookies Day"
+      ]
+    },
+    {
+      "date": "2024-10-02",
+      "holiday": [
+        "National Consignment Day"
+      ]
+    },
+    {
+      "date": "2024-10-03",
+      "holiday": [
+        "National Techies Day"
+      ]
+    },
+    {
+      "date": "2024-10-04",
+      "holiday": [
+        "National Taco Day"
+      ]
+    },
+    {
+      "date": "2024-10-05",
+      "holiday": [
+        "National Do Something Nice Day"
+      ]
+    },
+    {
+      "date": "2024-10-06",
+      "holiday": [
+        "National Noodle Day"
+      ]
+    },
+    {
+      "date": "2024-10-07",
+      "holiday": [
+        "National Frappe Day"
+      ]
+    },
+    {
+      "date": "2024-10-08",
+      "holiday": [
+        "National Pierogi Day"
+      ]
+    },
+    {
+      "date": "2024-10-09",
+      "holiday": [
+        "National Moldy Cheese Day"
+      ]
+    },
+    {
+      "date": "2024-10-10",
+      "holiday": [
+        "National Cake Decorating Day"
+      ]
+    },
+    {
+      "date": "2024-10-11",
+      "holiday": [
+        "National Sausage Pizza Day"
+      ]
+    },
+    {
+      "date": "2024-10-12",
+      "holiday": [
+        "National Farmers Day"
+      ]
+    },
+    {
+      "date": "2024-10-13",
+      "holiday": [
+        "National Train Your Brain Day"
+      ]
+    },
+    {
+      "date": "2024-10-14",
+      "holiday": [
+        "National Dessert Day"
+      ]
+    },
+    {
+      "date": "2024-10-15",
+      "holiday": [
+        "National Cheese Curd Day"
+      ]
+    },
+    {
+      "date": "2024-10-16",
+      "holiday": [
+        "National Feral Cat Day"
+      ]
+    },
+    {
+      "date": "2024-10-17",
+      "holiday": [
+        "National Pasta Day"
+      ]
+    },
+    {
+      "date": "2024-10-18",
+      "holiday": [
+        "National Chocolate Cupcake Day"
+      ]
+    },
+    {
+      "date": "2024-10-19",
+      "holiday": [
+        "National Seafood Bisque Day"
+      ]
+    },
+    {
+      "date": "2024-10-20",
+      "holiday": [
+        "National Pumpkin Cheesecake Day"
+      ]
+    },
+    {
+      "date": "2024-10-21",
+      "holiday": [
+        "National Apple Day"
+      ]
+    },
+    {
+      "date": "2024-10-22",
+      "holiday": [
+        "National Nut Day"
+      ]
+    },
+    {
+      "date": "2024-10-23",
+      "holiday": [
+        "National Boston Cream Pie Day"
+      ]
+    },
+    {
+      "date": "2024-10-24",
+      "holiday": [
+        "National Food Day"
+      ]
+    },
+    {
+      "date": "2024-10-25",
+      "holiday": [
+        "National Greasy Food Day"
+      ]
+    },
+    {
+      "date": "2024-10-26",
+      "holiday": [
+        "National Pumpkin Day"
+      ]
+    },
+    {
+      "date": "2024-10-27",
+      "holiday": [
+        "National American Beer Day"
+      ]
+    },
+    {
+      "date": "2024-10-28",
+      "holiday": [
+        "National Chocolate Day"
+      ]
+    },
+    {
+      "date": "2024-10-29",
+      "holiday": [
+        "National Cat Day"
+      ]
+    },
+    {
+      "date": "2024-10-30",
+      "holiday": [
+        "National Candy Corn Day"
+      ]
+    },
+    {
+      "date": "2024-10-31",
+      "holiday": [
+        "National Caramel Apple Day"
+      ]
+    },
+    {
+      "date": "2024-11-01",
+      "holiday": [
+        "National Author's Day"
+      ]
+    },
+    {
+      "date": "2024-11-02",
+      "holiday": [
+        "National Deviled Egg Day"
+      ]
+    },
+    {
+      "date": "2024-11-03",
+      "holiday": [
+        "National Sandwich Day"
+      ]
+    },
+    {
+      "date": "2024-11-04",
+      "holiday": [
+        "National Candy Day"
+      ]
+    },
+    {
+      "date": "2024-11-05",
+      "holiday": [
+        "National Doughnut Day"
+      ]
+    },
+    {
+      "date": "2024-11-06",
+      "holiday": [
+        "National Nachos Day"
+      ]
+    },
+    {
+      "date": "2024-11-07",
+      "holiday": [
+        "National Bittersweet Chocolate Day"
+      ]
+    },
+    {
+      "date": "2024-11-08",
+      "holiday": [
+        "National Cappuccino Day"
+      ]
+    },
+    {
+      "date": "2024-11-09",
+      "holiday": [
+        "National Louisiana Day"
+      ]
+    },
+    {
+      "date": "2024-11-10",
+      "holiday": [
+        "National Vanilla Cupcake Day"
+      ]
+    },
+    {
+      "date": "2024-11-11",
+      "holiday": [
+        "Veterans Day"
+      ]
+    },
+    {
+      "date": "2024-11-12",
+      "holiday": [
+        "National Happy Hour Day"
+      ]
+    },
+    {
+      "date": "2024-11-13",
+      "holiday": [
+        "National Indian Pudding Day"
+      ]
+    },
+    {
+      "date": "2024-11-14",
+      "holiday": [
+        "National Pickle Day"
+      ]
+    },
+    {
+      "date": "2024-11-15",
+      "holiday": [
+        "National Clean Out Your Refrigerator Day"
+      ]
+    },
+    {
+      "date": "2024-11-16",
+      "holiday": [
+        "National Fast Food Day"
+      ]
+    },
+    {
+      "date": "2024-11-17",
+      "holiday": [
+        "National Homemade Bread Day"
+      ]
+    },
+    {
+      "date": "2024-11-18",
+      "holiday": [
+        "National Vichyssoise Day"
+      ]
+    },
+    {
+      "date": "2024-11-19",
+      "holiday": [
+        "National Carbonated Beverage with Caffeine Day"
+      ]
+    },
+    {
+      "date": "2024-11-20",
+      "holiday": [
+        "National Peanut Butter Fudge Day"
+      ]
+    },
+    {
+      "date": "2024-11-21",
+      "holiday": [
+        "National Stuffing Day"
+      ]
+    },
+    {
+      "date": "2024-11-22",
+      "holiday": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "date": "2024-11-23",
+      "holiday": [
+        "National Espresso Day"
+      ]
+    },
+    {
+      "date": "2024-11-24",
+      "holiday": [
+        "National Sardines Day"
+      ]
+    },
+    {
+      "date": "2024-11-25",
+      "holiday": [
+        "National Parfait Day"
+      ]
+    },
+    {
+      "date": "2024-11-26",
+      "holiday": [
+        "National Cake Day"
+      ]
+    },
+    {
+      "date": "2024-11-27",
+      "holiday": [
+        "National Bavarian Cream Pie Day"
+      ]
+    },
+    {
+      "date": "2024-11-28",
+      "holiday": [
+        "National French Toast Day"
+      ]
+    },
+    {
+      "date": "2024-11-29",
+      "holiday": [
+        "National Square Dance Day"
+      ]
+    },
+    {
+      "date": "2024-11-30",
+      "holiday": [
+        "National Mousse Day"
+      ]
+    },
+    {
+      "date": "2024-12-01",
+      "holiday": [
+        "National Pie Day"
+      ]
+    },
+    {
+      "date": "2024-12-02",
+      "holiday": [
+        "National Fritters Day"
+      ]
+    },
+    {
+      "date": "2024-12-03",
+      "holiday": [
+        "National Roof Over Your Head Day"
+      ]
+    },
+    {
+      "date": "2024-12-04",
+      "holiday": [
+        "National Cookie Day"
+      ]
+    },
+    {
+      "date": "2024-12-05",
+      "holiday": [
+        "National Repeal Day"
+      ]
+    },
+    {
+      "date": "2024-12-06",
+      "holiday": [
+        "National Gazpacho Day"
+      ]
+    },
+    {
+      "date": "2024-12-07",
+      "holiday": [
+        "National Cotton Candy Day"
+      ]
+    },
+    {
+      "date": "2024-12-08",
+      "holiday": [
+        "National Brownie Day"
+      ]
+    },
+    {
+      "date": "2024-12-09",
+      "holiday": [
+        "National Pastry Day"
+      ]
+    },
+    {
+      "date": "2024-12-10",
+      "holiday": [
+        "National Lager Day"
+      ]
+    },
+    {
+      "date": "2024-12-11",
+      "holiday": [
+        "National Noodle Ring Day"
+      ]
+    },
+    {
+      "date": "2024-12-12",
+      "holiday": [
+        "National Gingerbread House Day"
+      ]
+    },
+    {
+      "date": "2024-12-13",
+      "holiday": [
+        "National Cocoa Day"
+      ]
+    },
+    {
+      "date": "2024-12-14",
+      "holiday": [
+        "National Bouillabaisse Day"
+      ]
+    },
+    {
+      "date": "2024-12-15",
+      "holiday": [
+        "National Cupcake Day"
+      ]
+    },
+    {
+      "date": "2024-12-16",
+      "holiday": [
+        "National Chocolate Covered Anything Day"
+      ]
+    },
+    {
+      "date": "2024-12-17",
+      "holiday": [
+        "National Maple Syrup Day"
+      ]
+    },
+    {
+      "date": "2024-12-18",
+      "holiday": [
+        "National Roast Suckling Pig Day"
+      ]
+    },
+    {
+      "date": "2024-12-19",
+      "holiday": [
+        "National Hard Candy Day"
+      ]
+    },
+    {
+      "date": "2024-12-20",
+      "holiday": [
+        "National Sangria Day"
+      ]
+    },
+    {
+      "date": "2024-12-21",
+      "holiday": [
+        "National French Fried Shrimp Day"
+      ]
+    },
+    {
+      "date": "2024-12-22",
+      "holiday": [
+        "National Date Nut Bread Day"
+      ]
+    },
+    {
+      "date": "2024-12-23",
+      "holiday": [
+        "National Roots Day"
+      ]
+    },
+    {
+      "date": "2024-12-24",
+      "holiday": [
+        "National Egg Nog Day"
+      ]
+    },
+    {
+      "date": "2024-12-25",
+      "holiday": [
+        "Christmas"
+      ]
+    },
+    {
+      "date": "2024-12-26",
+      "holiday": [
+        "National Candy Cane Day"
+      ]
+    },
+    {
+      "date": "2024-12-27",
+      "holiday": [
+        "National Fruitcake Day"
+      ]
+    },
+    {
+      "date": "2024-12-28",
+      "holiday": [
+        "National Chocolate Candy Day"
+      ]
+    },
+    {
+      "date": "2024-12-29",
+      "holiday": [
+        "National Pepper Pot Day"
+      ]
+    },
+    {
+      "date": "2024-12-30",
+      "holiday": [
+        "National Bacon Day"
+      ]
+    },
+    {
+      "date": "2024-12-31",
+      "holiday": [
+        "National Champagne Day"
+      ]
+    }
+  ]
+}

@@ -1,44 +1,31 @@
 {
-  "name": "homepage",
+  "name": "kaan.egriboz.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "@chakra-ui/react": "^1.0.0",
-    "@emotion/react": "^11.0.0",
-    "@emotion/styled": "^11.0.0",
-    "@testing-library/jest-dom": "^5.9.0",
-    "@testing-library/react": "^10.2.1",
-    "@testing-library/user-event": "^12.0.2",
-    "classnames": "^2.2.6",
-    "framer-motion": ">=3.0.0",
-    "next": "10.0.5",
-    "next-pwa": "^5.0.4",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-icons": "^3.0.0",
-    "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.2",
-    "react-three-fiber": "4.0.12",
-    "three": "0.112.1"
+    "@next/third-parties": "^15.0.1",
+    "axios": "^1.7.7",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.12.5",
+    "next": "14.2.12",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-fast-marquee": "^1.6.5"
   },
   "devDependencies": {
-    "prettier": "^2.2.1"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.12",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
